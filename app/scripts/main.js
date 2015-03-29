@@ -21,7 +21,7 @@ function activateWithID(id) {
 	        src: 'http://placehold.it/800x600',
 	        w: 800,
 	        h: 600,
-	        msrc: 'http://placehold.it/800x600'
+	        msrc: 'http://placehold.it/80x60'
 	    }
 	];
 
